@@ -1,0 +1,4 @@
+FrostedFlakes	 7549
+Peanuts	 7131
+WaffleSticks	 5342
+CinnamonPowder	 2891

@@ -1,0 +1,6 @@
+SingleCone			 400.00
+WaffleCone			 500.00
+DoubleWaffleCone			 600.00
+4.ozCup			 400.00
+8.ozCup			 600.00
+12.ozCup			 800.00

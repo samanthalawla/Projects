@@ -1,0 +1,4 @@
+Tivona		 Cookies&Cream		 ChocolateSprinkles		 SingleCone		50		400.00
+Madison		 Chocolate		 Marshmallows		 12.ozCup		450		800.00
+Samantha		 Ube(PurpleYam)		 Strawberries		 WaffleCone		50		500.00
+Mark		 MintChocolate		 None		 DoubleWaffleCone		100		600.00

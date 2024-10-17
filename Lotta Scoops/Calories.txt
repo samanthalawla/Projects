@@ -1,0 +1,6 @@
+SingleCone			 50
+WaffleCone			 50
+DoubleWaffleCone			 100
+4.ozCup			 150
+8.ozCup			 300
+12.ozCup			 450
