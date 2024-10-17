@@ -1,0 +1,17 @@
+PreorderLine		        (Head & Deputy Head Girls/Boys)		 Ensure_preorder_line_is_orderly
+FairMeeting		            (Entire Council)		             Discussing_plans_regarding_school_fair
+BigCashingLine		        (Prefects)		                     Ensure_the_line_is_orderly
+Meeting_with_Pricipal	    (Head & Deputy Head Girls/Boys)		 To_discuss_recent_events
+Lunch_BigCashingLine	    (Prefects)		                     Ensure_the_line_is_orderly
+OrganiseSpiritShirts	    (Head & Deputy Head Girls/Boys)		 Sort_shirts_by_grade
+OrganiseAwards		        (Head & Deputy Head Girls/Boys)		 Sort_awards_into_folders_and_by_grade
+SeniorPrefectMeeting	    (Head & Deputy Head Girls/Boys)		 Meeting_to_plan_upcoming_events
+PhoneCollection(Morning)	(Prefects)		                     Collect_labelled_phones_for_grades7,8,9
+Lunch_FrontDoors		    (Prefects)		                     Ensure_students_enter_through_correct_doors
+PhoneCollection(Afternoon)	(Prefects)		                     Give_students_their_phones_at_the_end_of_the_day
+FairMeeting		            (Prefects)		                     Discuss_the_details_for_school_fair
+Homeroom		            (Prefects)		                     Oversee_behaviour_of_students
+Lunch_PreorderLine		    (Prefects)		                     Keep_order_of_the_line
+Lunch_BigCashingLine		(Prefects)		                     Ensure_the_line_is_orderly
+PlanSpiritDayEvents		    (Head & Deputy Head Girls/Boys)		 Come_up_with_fun_events_for_the_student_body
+CouncilMeeting		        (Entire Council)		             Discuss_recent_student_behaviours

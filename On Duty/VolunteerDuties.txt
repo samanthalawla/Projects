@@ -1,0 +1,4 @@
+MoveChairs		                Patio_to_Cafeteria		 7/3/2023		 10
+PhoneCollection(Afternoon)		LectureHall		        19/4/2023		 3
+SubstituteClass		                9/40		        21/4/2023		 2
+PrizeGivingSetUp		        Patio		            13/2/2023		 12
